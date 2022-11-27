@@ -9,13 +9,17 @@
         .container{
             display: flex;
             background: papayawhip;
-            justify-content: space-between;
+            justify-content: center;
+            align-items: center;
+            height: 200px;
+            flex-direction: column;
         }
         .item{
             width: 30px;
             height: 30px;
             background:purple;
         }
+        .container .item:nth-child(2n+1){background: blue}
     </style>
 </head>
 <body>
