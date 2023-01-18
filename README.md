@@ -1,4 +1,4 @@
-# Repositorio Curso Teorico Frontend🧩
+# Repositorio Curso Teórico Frontend🧩
 ###### En este repositorio encontraras todos los archivos relacionados con manejo de HTML,CSS Y JS. 🖥
 
 - Ejercicios de aplicación para entender conceptos de CSS. 🎯
